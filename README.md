@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h2>Gokugenyou! 👋
   
 I'm Farhan Hisyam</h2>
-
 <p align="justify">Hi, my name is Farhan Hisyam. I am a passionate Telecommunication Engineering student at Semarang State Polytechnic. My academic journey revolves around exploring the fascinating realms of telecommunication and networks. On the digital frontier, my enthusiasm extends to website design. I am driven by a curiosity to innovate and contribute to the evolving tech landscape. 
   
 - 🎓 I'm currently studying at Semarang State Polytechnic
