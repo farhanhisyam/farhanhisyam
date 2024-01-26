@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Gokugenyou! 👋
+<h2>Gokugenyou! 👋
   
-I'm Farhan Hisyam</h3>
+I'm Farhan Hisyam</h2>
 
 <p align="justify">Hi, my name is Farhan Hisyam. I am a passionate Telecommunication Engineering student at Semarang State Polytechnic. My academic journey revolves around exploring the fascinating realms of telecommunication and networks. On the digital frontier, my enthusiasm extends to website design. I am driven by a curiosity to innovate and contribute to the evolving tech landscape. 
   
@@ -25,13 +25,13 @@ I'm Farhan Hisyam</h3>
 - 💬 Ask me about: anime🍙, books📖, music🎧
 - ⚡ Fun fact: I think the toothless dancing meme is so funny lol
 
-## 🌐 Reach Me On
+### 🌐 Reach Me On
 [![Instagram](https://img.shields.io/badge/Instagram-farhanhisyam_-purple?style=flat&logo=instagram)](https://www.instagram.com/farhanhisyam_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanhisyam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhan-hisyam-8bb888272/)
 [![Discord](https://img.shields.io/badge/Discord-lemon_soda-blue?style=flat&logo=discord)](https://www.discordapp.com/users/454715045004181508)
 [![Spotify](https://img.shields.io/badge/Spotify-hanie_mustard-green?style=flat&logo=spotify)](https://open.spotify.com/user/31d3r4satfxwpkbuvzzsmmym7woe?si=QzRlzg-oTf6D-LndDoNCyw)
 
-## 📊 Statistic
+### 📊 Statistic
 <p align="left">
 <a href="https://github.com/farhanhisyam">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farhanhisyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
