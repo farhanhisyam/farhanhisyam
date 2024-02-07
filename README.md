@@ -23,6 +23,8 @@ I'm Farhan Hisyam</h2>
 - 📫 How to reach me: just contact me below :3
 - 💬 Ask me about: anime🍙, books📖, music🎧
 - ⚡ Fun fact: I think the toothless dancing meme is so funny lol
+- ✨ Random quote:
+  >*“Running away from the things that frighten us isn't always a good thing. There are times when it's okay to run away, but exercise is important for your health”* <br> ― Yoru Sumino, `また、同じ夢を見ていた`
 
 ### 🌐 Reach Me On
 [![Instagram](https://img.shields.io/badge/Instagram-farhanhisyam_-purple?style=flat&logo=instagram)](https://www.instagram.com/farhanhisyam_/)
